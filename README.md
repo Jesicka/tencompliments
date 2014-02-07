@@ -4,4 +4,4 @@ ten compliments is a fun project I came up with on my birthday. I wanted a way t
 
 
 
-By [Jesicka Labud](http://twonontechies.com)
+By [Jesicka Labud and Martin Labud](http://twonontechies.com)
