@@ -77,4 +77,8 @@ Tencompliments::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+
+  # Required for Devise/Heroku
+  # Note to self: set this to actual host name, of course
+  config.action_mailer.default_url_options = { :host => 'tencompliments.herokuapp.com' }
 end
