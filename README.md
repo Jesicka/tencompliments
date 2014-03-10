@@ -4,7 +4,7 @@ Ten Compliments is a fun project I came up with on my birthday. I wanted a way t
 
 I also wanted to allow them to interact with the site by sending ten compliments to their own loved ones and friends as well!
 
-<h2>I created this app using my new Ruby on Rails skills. I started out as a non-techie from a different industry, and you can read all about that in my blog <a href="http://twonontechies.com">here</a>!</h2>
+I created this app using my new Ruby on Rails skills. I started out as a non-techie from a different industry, and you can read all about that in my blog <a href="http://twonontechies.com">here</a>!
 
 
 By [Jesicka Labud and Martin Labud](http://twonontechies.com)
